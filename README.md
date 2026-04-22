@@ -1,3 +1,21 @@
+# 🧬 AlgoVis — Sorting Algorithm Visualizer
+**An Interactive Educational Tool for Understanding Classic Sorting Algorithms**
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Flask](https://img.shields.io/badge/Flask-2.3.3-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-orange)
+
+---
+
+## 📸 Preview
+
+![Pathfinding Visualizer Screenshot](screenshot.png)
+
+> Interactive grid with walls, weights, and real-time algorithm visualization
+
+---
+
 ## 📖 Table of Contents
 
 - [Project Overview](#project-overview)
@@ -16,16 +34,6 @@
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 - [Author](#author)
-
----
-
-# 🧬 AlgoVis — Sorting Algorithm Visualizer
-**An Interactive Educational Tool for Understanding Classic Sorting Algorithms**
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Flask](https://img.shields.io/badge/Flask-2.3.3-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-orange)
 
 ---
 
