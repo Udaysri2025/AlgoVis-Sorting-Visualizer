@@ -16,6 +16,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [View Live Application](https://algovis-sorting-visualizer.onrender.com/)
+
+---
+
 ## 📖 Table of Contents
 
 - [Project Overview](#project-overview)
